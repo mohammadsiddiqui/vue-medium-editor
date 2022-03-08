@@ -29,7 +29,7 @@
 </template>
 
 <script>
-import MediumEditor from '../../index.js'
+import MediumEditor from 'vue2-medium-editor';
 
 const text = 'hello world'
 
